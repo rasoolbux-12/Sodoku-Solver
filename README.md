@@ -1,4 +1,4 @@
- ** Sudoku Solver** 🎮
+ **Sudoku Solver** 🎮
 
 A simple and interactive C++ program designed to solve a 9x9 Sudoku puzzle. This program demonstrates the power of backtracking by filling in a partially completed Sudoku grid and finding a valid solution.
 
